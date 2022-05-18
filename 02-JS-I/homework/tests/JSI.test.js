@@ -1,15 +1,16 @@
 /* eslint-disable no-undef */
 const {
+
   nuevaString,
   nuevoNum,
   nuevoBool,
   nuevaResta,
   nuevaMultiplicacion,
-  nuevoModulo,
+  nuevoModulo, 
   devolverString,
   tienenMismaLongitud,
   sonIguales,
-  menosQueNoventa,
+  menosQueNoventa, 
   mayorQueCincuenta,
   suma,
   resta,
